@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Toluca
+
+> Geotechnical engineering services in Toluca, México.
+
+## Services
+- [Aislacion Sismica](https://toluca.mecanicadesuelos.sbs/aislacion-sismica/)
+- [Anclajes](https://toluca.mecanicadesuelos.sbs/anclajes/)
+- [Calicatas](https://toluca.mecanicadesuelos.sbs/calicatas/)
+- [Cbr Vial](https://toluca.mecanicadesuelos.sbs/cbr-vial/)
+- [Cimentaciones](https://toluca.mecanicadesuelos.sbs/cimentaciones/)
+- [Columnas Grava](https://toluca.mecanicadesuelos.sbs/columnas-grava/)
+- [Densidad Cono Arena](https://toluca.mecanicadesuelos.sbs/densidad-cono-arena/)
+- [Ensayo Cpt](https://toluca.mecanicadesuelos.sbs/ensayo-cpt/)
+- [Ensayos Proctor](https://toluca.mecanicadesuelos.sbs/ensayos-proctor/)
+- [Estabilidad Taludes](https://toluca.mecanicadesuelos.sbs/estabilidad-taludes/)
+- [Excavaciones Profundas](https://toluca.mecanicadesuelos.sbs/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://toluca.mecanicadesuelos.sbs/excavaciones-subterraneo/)
+- [Exploracion](https://toluca.mecanicadesuelos.sbs/exploracion/)
+- [Geotecnia Vial](https://toluca.mecanicadesuelos.sbs/geotecnia-vial/)
+- [Granulometria](https://toluca.mecanicadesuelos.sbs/granulometria/)
+- [Inyecciones](https://toluca.mecanicadesuelos.sbs/inyecciones/)
+- [Laboratorio In Situ](https://toluca.mecanicadesuelos.sbs/laboratorio-in-situ/)
+- [Laboratorio Lab](https://toluca.mecanicadesuelos.sbs/laboratorio-lab/)
+- [Licuefaccion](https://toluca.mecanicadesuelos.sbs/licuefaccion/)
+- [Limites Atterberg](https://toluca.mecanicadesuelos.sbs/limites-atterberg/)
+- [Losas Fundacion](https://toluca.mecanicadesuelos.sbs/losas-fundacion/)
+- [Masw](https://toluca.mecanicadesuelos.sbs/masw/)
+- [Mejoramiento](https://toluca.mecanicadesuelos.sbs/mejoramiento/)
+- [Microzonificacion Sismica](https://toluca.mecanicadesuelos.sbs/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://toluca.mecanicadesuelos.sbs/monitoreo-excavaciones/)
+- [Muros Contencion](https://toluca.mecanicadesuelos.sbs/muros-contencion/)
+- [Pavimento Flexible](https://toluca.mecanicadesuelos.sbs/pavimento-flexible/)
+- [Pavimento Rigido](https://toluca.mecanicadesuelos.sbs/pavimento-rigido/)
+- [Permeabilidad In Situ](https://toluca.mecanicadesuelos.sbs/permeabilidad-in-situ/)
+- [Pilotes](https://toluca.mecanicadesuelos.sbs/pilotes/)
+- [Refraccion Sismica](https://toluca.mecanicadesuelos.sbs/refraccion-sismica/)
+- [Resistividad](https://toluca.mecanicadesuelos.sbs/resistividad/)
+- [Sismica](https://toluca.mecanicadesuelos.sbs/sismica/)
+- [Sondajes Spt](https://toluca.mecanicadesuelos.sbs/sondajes-spt/)
+- [Taludes](https://toluca.mecanicadesuelos.sbs/taludes/)
+- [Triaxial](https://toluca.mecanicadesuelos.sbs/triaxial/)
+- [Tuneles Suelo Blando](https://toluca.mecanicadesuelos.sbs/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://toluca.mecanicadesuelos.sbs/vibrocompactacion/)
+- [Zapatas](https://toluca.mecanicadesuelos.sbs/zapatas/)
+
+## Contact
+- Website: https://toluca.mecanicadesuelos.sbs/
+
+## About
+This site provides geotechnical engineering services in Toluca, México.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
